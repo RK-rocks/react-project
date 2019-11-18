@@ -1,0 +1,21 @@
+.react-action-class .react-table-view-button {
+  color: #6bd098; }
+  .react-action-class .react-table-view-button:hover {
+    background-color: #6bd098;
+    color: white; }
+
+.react-action-class .react-table-edit-button {
+  color: #fab526; }
+  .react-action-class .react-table-edit-button:hover {
+    background-color: #fab526;
+    color: white; }
+
+.react-action-class .react-table-delete-button {
+  color: #eb6532; }
+  .react-action-class .react-table-delete-button:hover {
+    background-color: #eb6532;
+    color: white; }
+
+.react-table-header-class {
+  padding: 14px 0 !important;
+  font-weight: 600; }

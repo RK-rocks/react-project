@@ -1,4 +1,4 @@
-import React, {useEffect ,useState } from "react";
+import React from "react";
 import { connect } from "react-redux";
 import logo from '../logo.svg';
 import { compose } from "redux";

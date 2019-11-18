@@ -1,15 +1,10 @@
-import Layout from "layouts/DashboardLayout.jsx";
+// import Layout from "../layouts/DashboardLayout";
 import {
-  Login,
-  Register,
-  ForgotPassword
-} from 'views/pages/index';
+  Login
+} from '../views/pages';
 
 const indexRoutes = [
-  { path: "/login", component: Login },
-  { path: "/register", component: Register },
-  { path: "/forgotPassword", component: ForgotPassword },
-  { path: "/", component: Layout },
+  { path: "/", component: Login },
 ];
 
 export default indexRoutes;
